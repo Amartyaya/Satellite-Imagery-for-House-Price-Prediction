@@ -9,3 +9,5 @@
 - training.py contains the training loop for the models.
 
 - model_training.ipynb performs the training of both models and saves the predictions in predictions.xlsx. conv and mlp contain the models obtained after training used to make the predictions.
+
+- Submission Report: https://drive.google.com/file/d/1TdMEFr3W-OIevO698_aLZnsYsJorXjQ1/view?usp=sharing
